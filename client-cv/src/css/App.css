@@ -2,8 +2,8 @@
   max-width: 1025px;
   margin: auto;
 
-  box-shadow:  15px 15px 30px #131416,
-             -15px -15px 30px #131416;
+  /* box-shadow:  15px 15px 30px #131416,
+             -15px -15px 30px #131416; */
 }
 .Container {
   display: flex;
