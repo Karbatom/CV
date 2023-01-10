@@ -1,0 +1,18 @@
+.Services-Container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.Services-Container div {
+  width: 270px;
+  padding: 5px 1px;
+}
+
+.SecondTitle {
+  font-size: 35px;
+}
+
+.Service-Text {
+  padding: 0 25px;
+}

@@ -1,0 +1,71 @@
+.SubTitle strong{
+  font-size: 20px;
+  padding-left: 10px;
+  margin-top: -15px;
+}
+
+.Interested-Container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.Interested-Container .Interested-Section {
+  padding: 20px;
+  max-width: 350px;
+}
+
+
+.Interested-Item-Icon {
+  border: 4px solid #49a572;
+  background-color: #1b1c1e;
+
+  padding: 8px;
+  border-radius: 50% 50% 10% 50%;
+  position: absolute;
+
+  margin-top: -10px;
+}
+
+.Interested-Item-Content {
+  justify-content: center;
+  background-color: #1b1c1e;
+  border: 1px solid #1b1c1e;
+  padding: 50px;
+
+  border-radius: 50%;
+
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+
+  z-index: -1;
+
+  box-shadow:  7px 7px 10px #131416;
+
+  width: 200px;
+  height: 200px;
+}
+
+.Interested-Item-Border {
+  background-color: #49a572;
+  border-radius: 50%;
+  padding-top: 2px;
+  padding-left: 2px;
+}
+
+.Interested-Title {
+  text-align: center;
+  padding: 10px;
+
+  font-size: 22px;
+  font-weight: bold;
+  color: white;
+
+  /* border-top: 1px solid #49a572; */
+}
+
+.Interested-Item-Content div {
+  padding: 3px 0;
+}

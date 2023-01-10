@@ -1,0 +1,49 @@
+.BlenderImg, .YoutubeImg {
+  width: 120px;
+}
+
+.ImgSection {
+  text-align: center;
+}
+
+.ImgContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.ImgContainer img {
+  max-width: 400px;
+  max-height: 700px;
+}
+
+.YoutubeLink {
+  display: flex;
+  justify-content: center;
+  padding: 40px 0 30px 0;
+}
+
+.PawTrailLogo {
+  width: 150px;
+  cursor: pointer;
+}
+
+.YoutubeLink a {
+  padding: 15px 15px 10px 15px;
+  border-radius: 50%;
+  background: linear-gradient(145deg, #1d1e20, #18191b);
+  box-shadow:  7px 7px 10px #111113,
+              -7px -7px 10px #252729;
+}
+
+.YoutubeLink a:hover {
+  background: linear-gradient(145deg, #18191b, #1d1e20);
+  box-shadow:  7px 7px 10px #111113,
+             -7px -7px 10px #252729;
+}
+
+.Note {
+  color: #72e3a6;
+  font-style: italic;
+  line-height: 25px;
+}

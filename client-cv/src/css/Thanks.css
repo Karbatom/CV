@@ -1,0 +1,21 @@
+.Services-Container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.Services-Container div {
+  width: 270px;
+  padding: 5px 1px;
+
+  text-align: center;
+}
+
+.WideSection .TitleMiddle {
+  text-align: center;
+  letter-spacing: 8px;
+
+  padding: 50px 10px;
+
+  color: #2d2e30;
+}

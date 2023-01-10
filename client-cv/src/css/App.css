@@ -1,0 +1,61 @@
+.App {
+  max-width: 1025px;
+  margin: auto;
+
+  box-shadow:  15px 15px 30px #131416,
+             -15px -15px 30px #131416;
+}
+.Container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+
+  /* padding: 0 5px; */
+}
+
+.Titles {
+  color: #fff;
+}
+.Highligh-Green-Text {
+  color: #49a572;
+}
+.Highligh-Green-Icon {
+  background-color: #49a572;
+}
+.MainTitle {
+  font-size: 35px;
+  padding-left: 20px;
+}
+.SecondTitle {
+  font-size: 25px;
+  padding-left: 20px;
+}
+.Paragraf {
+  padding: 0 40px;
+}
+
+.Section {
+  /* padding: 0 25px 10px 25px; */
+  max-width: 550px;
+}
+.WideSection {
+  /* padding: 0 25px 10px 25px; */
+  max-width: 1020px;
+}
+.Section-SmallMiddle {
+  max-width: 550px;
+  margin: auto;
+}
+.Profile-Section {
+  max-width: 550px;
+}
+
+.Seperater {
+  width: 100%;
+  /* padding: 25px 15px; */
+  padding: 25px 0;
+}
+.Seperater div {
+  width: 100%;
+  border-bottom: 1px solid #8383852c;
+}
