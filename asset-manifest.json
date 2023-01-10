@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/CV/static/css/main.8aeffac2.css",
+    "main.js": "/CV/static/js/main.fba0ef85.js",
+    "static/js/787.e5225777.chunk.js": "/CV/static/js/787.e5225777.chunk.js",
+    "static/media/MTB (10).jpg": "/CV/static/media/MTB (10).139e3eed24f648fa442b.jpg",
+    "static/media/MTB (5).jpg": "/CV/static/media/MTB (5).753ab6139a5475122ca8.jpg",
+    "static/media/MTB (11).jpg": "/CV/static/media/MTB (11).cd916dba5f136ed01791.jpg",
+    "static/media/MTB (1).jpg": "/CV/static/media/MTB (1).4d69de505330d70e320c.jpg",
+    "static/media/MTB (3).jpg": "/CV/static/media/MTB (3).06dc548f770f378d3fa7.jpg",
+    "static/media/MTB (8).jpg": "/CV/static/media/MTB (8).64cc5dd1afd0e7904549.jpg",
+    "static/media/MTB (9).jpg": "/CV/static/media/MTB (9).509e36315b2702c3903f.jpg",
+    "static/media/MTB (2).jpg": "/CV/static/media/MTB (2).6316a7eb58d23910c02f.jpg",
+    "static/media/MTB (7).jpg": "/CV/static/media/MTB (7).c8281eb7b885a3f7206b.jpg",
+    "static/media/MTB (6).jpg": "/CV/static/media/MTB (6).d513b3cf9fb398f60547.jpg",
+    "static/media/MTB (4).jpg": "/CV/static/media/MTB (4).3dbdd99cb4710578f87f.jpg",
+    "static/media/PawTrailLogo.png": "/CV/static/media/PawTrailLogo.ca5813b0a79cfbad5a8b.png",
+    "static/media/b_img (18).jpg": "/CV/static/media/b_img (18).39b32b778eb7cb0f13df.jpg",
+    "static/media/b_img (14).JPG": "/CV/static/media/b_img (14).19a4db4c60188e2cb295.JPG",
+    "static/media/b_img (10).JPG": "/CV/static/media/b_img (10).c7114b0b25f48275701a.JPG",
+    "static/media/MeProfile 09.png": "/CV/static/media/MeProfile 09.78599a66064694da63f8.png",
+    "static/media/b_img (17).jpg": "/CV/static/media/b_img (17).04a33c20f3baf99ef167.jpg",
+    "static/media/b_img (12).JPG": "/CV/static/media/b_img (12).39a9443dc60059ade654.JPG",
+    "static/media/b_img (1).JPG": "/CV/static/media/b_img (1).0e5cb6840327bb6c7cde.JPG",
+    "static/media/b_img (13).JPG": "/CV/static/media/b_img (13).827c5a9ac5b8f8d2ec4a.JPG",
+    "index.html": "/CV/index.html",
+    "main.8aeffac2.css.map": "/CV/static/css/main.8aeffac2.css.map",
+    "main.fba0ef85.js.map": "/CV/static/js/main.fba0ef85.js.map",
+    "787.e5225777.chunk.js.map": "/CV/static/js/787.e5225777.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aeffac2.css",
+    "static/js/main.fba0ef85.js"
+  ]
+}
